@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "96Mcoinswallet")
+set(CN_CURRENCY_DISPLAY_NAME "9.6Mcoins")
+set(CN_CURRENCY_TICKER "Mcoin")
